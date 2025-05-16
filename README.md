@@ -1,2 +1,2 @@
-# Smart_Intrusion_Alert_system
-It's security system for PC which tracks the unauthorized user access to your system.
+# Smart Intrusion Alert System
+It's a Security System for PC's which helps the user to detect access of unauthorized user by entering wrong password
